@@ -19,7 +19,7 @@ A personal data inventory page for your Filament panel, built on [laravel-lgpd](
 - One card per model in `lgpd.models`, one row per declared column.
 - Sensitive data (art. 5, II) highlighted.
 - Columns without a legal basis flagged as "Not declared".
-- English and Brazilian Portuguese.
+- 19 languages.
 
 ## Compatibility
 
